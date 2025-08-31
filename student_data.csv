@@ -1,0 +1,6 @@
+student_id,name,gender,department,attendance_percent,internal_marks,external_marks,final_result
+101,Aarav,Male,CS,85,18,65,Pass
+102,Diya,Female,IT,92,20,70,Pass
+103,Kabir,Male,CS,78,15,60,Pass
+104,Meera,Female,IT,88,17,68,Pass
+105,Rohan,Male,CS,69,14,50,Fail
